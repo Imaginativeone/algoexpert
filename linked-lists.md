@@ -1,0 +1,14 @@
+- [ ] Linked Lists - 0/13
+  - [ ] [01 Remove Duplicates From Linked List](https://www.algoexpert.io/questions/remove-duplicates-from-linked-list)
+  - [ ] 02 Linked List Construction
+  - [ ] 03 Remove Kth Node From End
+  - [ ] 04 Sum of Linked Lists
+  - [ ] 05 Find Loop
+  - [ ] 06 Reverse Linked List
+  - [ ] 07 Merge Linked Lists
+  - [ ] 08 Shift Linked List
+  - [ ] 09 LRU Cache
+  - [ ] 10 Rearrange Linked List
+  - [ ] 11 Linked List Palindrome
+  - [ ] 12 Zip Linked List
+  - [ ] 13 Node Swap
