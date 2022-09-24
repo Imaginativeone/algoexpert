@@ -31,7 +31,21 @@
 06. 13 Graphs 00/13
 07. 05 Greedy Algorithms 00/05
 08. 05 Heaps 00/05
-09. 13 Linked Lists 00/13
+- [ ] 09. 13 Linked Lists 00/13
+  - [ ] Linked Lists - 0/13
+  - [ ] 01 Remove Duplicates From Linked Lists
+  - [ ] 02 Linked List Construction
+  - [ ] 03 Remove Kth Node From End
+  - [ ] 04 Sum of Linked Lists
+  - [ ] 05 Find Loop
+  - [ ] 06 Reverse Linked List
+  - [ ] 07 Merge Linked Lists
+  - [ ] 08 Shift Linked List
+  - [ ] 09 LRU Cache
+  - [ ] 10 Rearrange Linked List
+  - [ ] 11 Linked List Palindrome
+  - [ ] 12 Zip Linked List
+  - [ ] 13 Node Swap
 11. 13 Recursion
 12. 07 Searching
 13. 09 Sorting
