@@ -23,5 +23,7 @@ You can assume that there will be at most one pair of numbers summing up to the 
 <br/>[-1, 11] // the numbers could be in reverse order
 
 - Prompt Scratchpad Solutions Video Explanation
+- [Reference](https://www.algoexpert.io/questions/two-number-sum)
 - [Markdown Colored Text](https://stackoverflow.com/questions/23904274/is-there-a-way-to-get-colored-text-in-githubflavored-markdown)
 - [Additional Unicode](https://apps.timwhitlock.info/emoji/tables/unicode)
+- [Markdown Cheat Sheet](https://support.squarespace.com/hc/en-us/articles/206543587-Markdown-cheat-sheet)
