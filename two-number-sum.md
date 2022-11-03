@@ -24,27 +24,27 @@ You can assume that there will be at most one pair of numbers summing up to the 
 
 ### Solution
 
+#### Come back to this later, and make it functional
+
 ```
 function twoNumberSum(array, targetSum) {
-  array.map(f => {
-    array.map(s => {
-      if(f + s === targetSum) console.log("targetSum", f, s);
-    })
-  })
+  // Write your code here.
+  for (i=0; i<array.length-1; i++) {
+    // console.log("i", array[i])
+    firstNum = parseInt(array[i])
+
+    for(j=i+1; j<array.length; j++) {
+      // console.log("j", array[j])
+      secondNum = parseInt(array[j])
+
+      if (parseInt(firstNum) + parseInt(secondNum) === parseInt(targetSum)) {
+        console.log(`${firstNum} + ${secondNum} = ${firstNum+secondNum} | ${targetSum}`)
+        return [firstNum, secondNum]
+      }
+    }
+  }
+  return []
 }
-
-const array = [1, 2, 3, 4, 5, 6];
-const targetSum = 10;
-
-twoNumberSum(array, targetSum);
-
-// Do not edit the line below.
-exports.twoNumberSum = twoNumberSum;
-
-const array = [1, 2, 3, 4, 5, 6];
-const targetSum = 10;
-
-twoNumberSum(array, targetSum);
 
 // Do not edit the line below.
 exports.twoNumberSum = twoNumberSum;
