@@ -1,5 +1,7 @@
 # Two Number Sum ✩
 
+<span style="color:blue">some *blue* text</span>
+
 - Category: Arrays
 - Difficulty: Easy 
 - Successful Submissions: 155,434+
@@ -13,12 +15,13 @@ Note that the target sum has to be obtained by summing two different integers in
 can't add a single integer to itself in order to obtain the target sum.
 You can assume that there will be at most one pair of numbers summing up to the target sum.
 
->Sample Input
-array = [3, 5, -4, 8, 11, 1, −1, 6]
-targetSum= 10
+>**Sample Input**
+><br/>array = [3, 5, -4, 8, 11, 1, −1, 6]
+><br/>targetSum= 10
 
->Sample Output
-[-1, 11] // the numbers could be in reverse order
+>**Sample Output**
+<br/>[-1, 11] // the numbers could be in reverse order
 
 - Prompt Scratchpad Solutions Video Explanation
 - [Markdown Colored Text](https://stackoverflow.com/questions/23904274/is-there-a-way-to-get-colored-text-in-githubflavored-markdown)
+- [Additional Unicode](https://apps.timwhitlock.info/emoji/tables/unicode)
