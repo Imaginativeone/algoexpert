@@ -22,6 +22,28 @@ You can assume that there will be at most one pair of numbers summing up to the 
 >**Sample Output**
 <br/>[-1, 11] // the numbers could be in reverse order
 
+### Solution
+
+```
+function twoNumberSum(array, targetSum) {
+  array.map((element) => {
+    firstNum = element
+    array.map((e) => {
+      secondNum = e
+      if(e + element === targetSum) console.log("targetSum", element, e);
+    })
+  })
+}
+
+const array = [1, 2, 3, 4, 5, 6];
+const targetSum = 10;
+
+twoNumberSum(array, targetSum);
+
+// Do not edit the line below.
+exports.twoNumberSum = twoNumberSum;
+```
+
 - Prompt Scratchpad Solutions Video Explanation
 - [Reference](https://www.algoexpert.io/questions/two-number-sum)
 - [Markdown Colored Text](https://stackoverflow.com/questions/23904274/is-there-a-way-to-get-colored-text-in-githubflavored-markdown)
