@@ -26,14 +26,20 @@ You can assume that there will be at most one pair of numbers summing up to the 
 
 ```
 function twoNumberSum(array, targetSum) {
-  array.map((element) => {
-    firstNum = element
-    array.map((e) => {
-      secondNum = e
-      if(e + element === targetSum) console.log("targetSum", element, e);
+  array.map(f => {
+    array.map(s => {
+      if(f + s === targetSum) console.log("targetSum", f, s);
     })
   })
 }
+
+const array = [1, 2, 3, 4, 5, 6];
+const targetSum = 10;
+
+twoNumberSum(array, targetSum);
+
+// Do not edit the line below.
+exports.twoNumberSum = twoNumberSum;
 
 const array = [1, 2, 3, 4, 5, 6];
 const targetSum = 10;
