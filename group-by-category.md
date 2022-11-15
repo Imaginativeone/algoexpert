@@ -1,29 +1,29 @@
 - [ ] 01 24 Arrays 00/24
   - [ ] Arrays - 0/24
-  - [x] [01 Two Number Sum](https://www.algoexpert.io/questions/two-number-sum)
-  - [ ] 02 Validate Subsequence **
-  - [ ] 03 Sorted Squared Array
-  - [ ] 04 Tournament Winner
-  - [ ] 05 Non-Constructible Cha...
-  - [ ] 06 Three Number Sum
-  - [ ] 07 Smallest Difference
-  - [ ] 08 Move Element To End
-  - [ ] 09 Monotonic Array
-  - [ ] 10 Spiral Traverse
-  - [ ] 11 Longest Peak
-  - [ ] 12 Array Of Products
-  - [ ] 13 First Duplicate Value
-  - [ ] 14 Merge Overlapping Int...
-  - [ ] 15 Four Number Sum
-  - [ ] 16 Subarray Sort
-  - [ ] 17 Largest Range
-  - [ ] 18 Min Rewards
-  - [ ] 19 Zigzag Traverse
-  - [ ] 20 Apartment Hunting
-  - [ ] 21 Calendar Matching
-  - [ ] 22 Waterfall Streams
-  - [ ] 23 Minimum Area Rectangle
-  - [ ] 24 Line Through Points
+    - [x] [01 Two Number Sum](https://www.algoexpert.io/questions/two-number-sum)
+    - [x] 02 Validate Subsequence **
+    - [ ] 03 Sorted Squared Array
+    - [ ] 04 Tournament Winner
+    - [ ] 05 Non-Constructible Cha...
+    - [ ] 06 Three Number Sum
+    - [ ] 07 Smallest Difference
+    - [ ] 08 Move Element To End
+    - [ ] 09 Monotonic Array
+    - [ ] 10 Spiral Traverse
+    - [ ] 11 Longest Peak
+    - [ ] 12 Array Of Products
+    - [ ] 13 First Duplicate Value
+    - [ ] 14 Merge Overlapping Int...
+    - [ ] 15 Four Number Sum
+    - [ ] 16 Subarray Sort
+    - [ ] 17 Largest Range
+    - [ ] 18 Min Rewards
+    - [ ] 19 Zigzag Traverse
+    - [ ] 20 Apartment Hunting
+    - [ ] 21 Calendar Matching
+    - [ ] 22 Waterfall Streams
+    - [ ] 23 Minimum Area Rectangle
+    - [ ] 24 Line Through Points
 02. 10 Binary Search Trees 00/10
 03. 13 Binary Trees 00/13
 04. 19 Dynamic Programming 00/19
