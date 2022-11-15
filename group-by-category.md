@@ -1,8 +1,8 @@
 - [ ] 01 24 Arrays 00/24
   - [ ] Arrays - 0/24
-    - [x] [01 Two Number Sum](https://www.algoexpert.io/questions/two-number-sum)
-    - [x] 02 Validate Subsequence **
-    - [ ] 03 Sorted Squared Array
+    - [x] [01 Two Number Sum](https://www.algoexpert.io/questions/two-number-sum) - Done
+    - [x] [02 Validate Subsequence](https://www.algoexpert.io/questions/validate-subsequence) - Done
+    - [ ] 03 Sorted Squared Array **
     - [ ] 04 Tournament Winner
     - [ ] 05 Non-Constructible Cha...
     - [ ] 06 Three Number Sum
